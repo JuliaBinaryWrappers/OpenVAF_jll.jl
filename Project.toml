@@ -1,0 +1,17 @@
+name = "OpenVAF_jll"
+uuid = "c649151a-19b8-53bd-9f17-80f8f8085f60"
+version = "23.5.0+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+LLVM_full_jll = "a3ccf953-465e-511d-b87f-60a6490c289d"
+Libiconv_jll = "94ce4f54-9a6c-5748-9c1c-f9c7231a4531"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+Libdl = "1"
+LLVM_full_jll = "15"
+Artifacts = "1"

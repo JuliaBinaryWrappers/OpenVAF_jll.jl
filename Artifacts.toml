@@ -1,77 +1,77 @@
 [[OpenVAF]]
 arch = "aarch64"
-git-tree-sha1 = "ff92b74dae5a6d8e5d09f259616eb8ed654f6381"
+git-tree-sha1 = "0e3d0e62a0cf78b2c7b3598a28b73be7b1037fc0"
 os = "macos"
 
     [[OpenVAF.download]]
-    sha256 = "ea93e91827c430a316806ee4800b16acb424f397752019bc6fea9f5b6a0dc31d"
-    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+1/OpenVAF.v23.5.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "f464cf0729d740574bd9045369e3a505e208eaeecfa69b0b246be404e63c3188"
+    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+2/OpenVAF.v23.5.0.aarch64-apple-darwin.tar.gz"
 [[OpenVAF]]
 arch = "aarch64"
-git-tree-sha1 = "e03958cd196ba87ba1064b07b4881982f297ab5d"
+git-tree-sha1 = "0a86697323a3362505cbb09a8d0aaad6bdc0631d"
 libc = "glibc"
 os = "linux"
 
     [[OpenVAF.download]]
-    sha256 = "ff14b4749a78bcce2cc3ba521ad0077be3af62081bef8a46823464c195287ac7"
-    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+1/OpenVAF.v23.5.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "9ed7f3c4ec90b30e5dbd53ca50f3dc078b7193f2493e6cdcfe7b59d991526192"
+    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+2/OpenVAF.v23.5.0.aarch64-linux-gnu.tar.gz"
 [[OpenVAF]]
 arch = "aarch64"
-git-tree-sha1 = "2f3ff4632efbd6e5cdce5fa5c96071a3da9a3872"
+git-tree-sha1 = "a819b2cd52243378ada878e330b09bb7d49554eb"
 libc = "musl"
 os = "linux"
 
     [[OpenVAF.download]]
-    sha256 = "f613597fbab4a60177fb7f010ebebe145a203bf15ff0be08bae9dc9e04f5732b"
-    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+1/OpenVAF.v23.5.0.aarch64-linux-musl.tar.gz"
+    sha256 = "350ef035282643befc5d64c03e25f2f3560855eca1c29fa36dc32056e1a82dda"
+    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+2/OpenVAF.v23.5.0.aarch64-linux-musl.tar.gz"
 [[OpenVAF]]
 arch = "i686"
-git-tree-sha1 = "9b6b7f198cc6046c93eff26bd028349378f5733e"
+git-tree-sha1 = "154c6a95392e99969954c0cededadb7861b99637"
 libc = "glibc"
 os = "linux"
 
     [[OpenVAF.download]]
-    sha256 = "2580a4457a5d4902c129e342b70d979f08a60c0800afb6041cefa62145d44887"
-    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+1/OpenVAF.v23.5.0.i686-linux-gnu.tar.gz"
+    sha256 = "a030923f4b1a10527ece924231f8248e74a6383e6284488361dca8acf2272290"
+    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+2/OpenVAF.v23.5.0.i686-linux-gnu.tar.gz"
 [[OpenVAF]]
 arch = "x86_64"
-git-tree-sha1 = "a6841e979ff127fbedde246fff733ae9078cb85b"
+git-tree-sha1 = "25ab2a2c25bd610090eabba3e7c92e33d9d30746"
 os = "macos"
 
     [[OpenVAF.download]]
-    sha256 = "7f878b0d55af436805cbcd837d9610f5c6f656ac36531f7f3b5e10f26d823353"
-    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+1/OpenVAF.v23.5.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "114fc0debf8dcd53756bc6badd13807e8e6daf7bba344490e9d936f7bb58c8fe"
+    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+2/OpenVAF.v23.5.0.x86_64-apple-darwin.tar.gz"
 [[OpenVAF]]
 arch = "x86_64"
-git-tree-sha1 = "c4bd5bb0c69fa4efae69e26d0ba4ef38294cc4cf"
+git-tree-sha1 = "d941ee9e2758a562ed7b2a7feade0fd89ec3efe1"
 libc = "glibc"
 os = "linux"
 
     [[OpenVAF.download]]
-    sha256 = "142f5f56307d95627debd0d411f7afb038f3fc1a55b5db0d295b64ba5adc34e2"
-    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+1/OpenVAF.v23.5.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "d75aa516545ebfd115e33573aada7a442541060ca795eb3cac1931545f20f4d3"
+    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+2/OpenVAF.v23.5.0.x86_64-linux-gnu.tar.gz"
 [[OpenVAF]]
 arch = "x86_64"
-git-tree-sha1 = "43d824356bd7f9b9e621cc953f8d2fb3285dc220"
+git-tree-sha1 = "55fdc2de6acbbf7a54595daae6ffe9a6c6ce614d"
 libc = "musl"
 os = "linux"
 
     [[OpenVAF.download]]
-    sha256 = "1b5cdce4dd37cccf33ede06b9b88cc8f911e5ea6aa89a15ec3279f59a5b484d6"
-    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+1/OpenVAF.v23.5.0.x86_64-linux-musl.tar.gz"
+    sha256 = "c7e1ae171c69a263c17956a1de51d6a0b247d4abcde0f557ca5648b4c88adaaa"
+    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+2/OpenVAF.v23.5.0.x86_64-linux-musl.tar.gz"
 [[OpenVAF]]
 arch = "x86_64"
-git-tree-sha1 = "f7e9ddf0bc3a0fb9f69b9708aa5a8e4bc122f82e"
+git-tree-sha1 = "c2e8eec2d2a3836d2bdebe0084df11e29612bef8"
 os = "freebsd"
 
     [[OpenVAF.download]]
-    sha256 = "6cc6cceb3428a51079ac1223dcb931cf1374040a90c18d81fd8d6915664117df"
-    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+1/OpenVAF.v23.5.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "7399c3f822633f24bb0360640504dd94ea27b8bc25e009d6543d0ff617ba0841"
+    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+2/OpenVAF.v23.5.0.x86_64-unknown-freebsd.tar.gz"
 [[OpenVAF]]
 arch = "x86_64"
-git-tree-sha1 = "19e2839c42a4ffd8a1b34352c79a90868e8cfaf9"
+git-tree-sha1 = "1f995bb3e1df11fb59186b2058892f94d8e26951"
 os = "windows"
 
     [[OpenVAF.download]]
-    sha256 = "521d8b9b268b46599bc0775b2563fd170456c39d3aeca23b5bb74aeadfb38d47"
-    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+1/OpenVAF.v23.5.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "931ad80b43872c59dc99c5cfdedb2974994984330c4568dae0ede24a2c49fc0b"
+    url = "https://github.com/JuliaBinaryWrappers/OpenVAF_jll.jl/releases/download/OpenVAF-v23.5.0+2/OpenVAF.v23.5.0.x86_64-w64-mingw32.tar.gz"
